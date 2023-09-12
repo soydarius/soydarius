@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soydarius
 - 👀 I’m interested in ... Data Analysis / Data Science
-- 🌱 I’m currently learning ... Data Processing
+- 🌱 I’m currently learning ... SQL
 - 📫 How to reach me ... soydarius@gmail.com
 
 <!---
